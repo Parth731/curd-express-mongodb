@@ -1,0 +1,21 @@
+{
+  "name": "curd-operation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.8",
+    "express": "^5.0.0-alpha.8",
+    "mongodb": "^6.3.0",
+    "mongoose": "^6.7.5",
+    "nodemon": "^2.0.20"
+  }
+}
